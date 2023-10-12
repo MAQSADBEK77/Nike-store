@@ -4,8 +4,7 @@
     <h1>Nike Store</h1>
   </a>
     <br/>
-    <br/>
-  <a href="hthttps://github.com/MAQSADBEK77/Nike-store">
+  <a href="https://nike-maqsadbek.netlify.app/">
     <h1>Nike Store netlify</h1>
   </a>
 
