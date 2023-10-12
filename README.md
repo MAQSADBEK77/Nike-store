@@ -3,6 +3,11 @@
   <a href="hthttps://github.com/MAQSADBEK77/Nike-store">
     <h1>Nike Store</h1>
   </a>
+    <br/>
+    <br/>
+  <a href="hthttps://github.com/MAQSADBEK77/Nike-store">
+    <h1>Nike Store netlify</h1>
+  </a>
 
   <p align="center">
    Hi, I built this site using React, React redux toolkit, TailwindCSS, and several other technologies and libraries.
