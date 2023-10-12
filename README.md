@@ -4,7 +4,7 @@
     <h1>Nike Store</h1>
   </a>
     <br/>
-  <a href="https://nike-maqsadbek.netlify.app/">
+  <a align="center" href="https://nike-maqsadbek.netlify.app/">
     Nike Store netlify
   </a>
 
